@@ -1,5 +1,14 @@
 ﻿namespace _2_Pong2ball_StructProg
 {
+    /* 
+     *  Verandering tegenover vorige?
+     *  
+     *  Tweede ball toegevoegd. Dit vereist dat we alle variabelen (X,Y,vectorX en vectorY) 
+     *  opnieuw aanmaken om daarin de eigenschappen van de 2e bal te bewaren.
+     *  Vervolgens moeten we ook de code voor de grenscontroles én de update toevoegen voor deze nieuwe
+     *  variabelen.
+     * 
+     */
     internal class Program
     {
         static void Main(string[] args)

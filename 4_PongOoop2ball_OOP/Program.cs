@@ -1,5 +1,11 @@
 ﻿namespace _4_PongOoop2ball_OOP
-{
+{    /* 
+     *  Verandering tegenover vorige?
+     *  
+     *  Dankzij de kracht van OOP is een 2e bal toevoegen nu veel eenvoudiger. 
+     *  Merk vooral op hoe weinig code er in de while-loop bijkomt.
+     * 
+     */
     internal class Program
     {
         static void Main(string[] args)

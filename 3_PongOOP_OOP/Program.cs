@@ -1,5 +1,13 @@
 ﻿namespace _3_PongOOP_OOP
-{
+{    /* 
+     *  Verandering tegenover vorige?
+     *  
+     *  We plaatsen alle logica voor het balletje in een aparte klasse in het bestand Balletje.cs.
+     *  We vereenvoudigen de code in de main daardoor (het tweede balletje is even verdwenen en komt in volgende project terug)
+     *  Merk op dat nu onze loop veel leesbaarder wordt, daar alle "ingewikkelde" functionaliteit
+     *  verstopt (encapsulatie) zit in de Update methode van de klasse Balletje.
+     *
+     */
     internal class Program
     {
         static void Main(string[] args)
